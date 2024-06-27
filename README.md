@@ -1,3 +1,4 @@
+# Kwiaciarnia
 Jest to projekt napisany w 3 semestrze studiów. Przedstawia baze danych dla kwiaciarni. 
 Zawiera w sobie wszystkie instrukcie CREATE oraz INSERT przykładowych danych. 
 
