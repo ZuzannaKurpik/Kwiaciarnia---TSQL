@@ -1,0 +1,4 @@
+Opis zagadnienia :
+
+
+Diagram związków encji dla KWIACIARNI. Sklep oferuje możliwość zamówienia różnego rodzaju bukietów, które mogą składać się z jednego, wielu lub wiązanki różnych kwiatów. Kupujący decyduje jakiego rodzaju kwiaty i w jakiej ilości chce zamówić. Może to być bukiet skomponowany przez kupującego lub wybrany z oferty. Kupujący musi również określić dodatki (przybranie, opakowanie). Baza danych sklepu rejestruje datę złożenia zamówienia, dane kupującego i obliczoną cenę (na podstawie cen bieżących kwiatów i dodatków) widoczną dla kupującego (cena kwiatów moze się różnić każdego dnia, a cena zamówienia jest obliczana na podstawie cen z dnia zamówienia). Kupujący musi również podać adres i nazwisko adresata przesyłki, sugerowaną datę dostawy oraz treść liściku do bukietu. PO dostawie przesyłki sklep zapamiętuje że zlecenie zostało zrealizowane. Sklep rejestruje również, czy kupujący dokonał wpłaty na konto sklepu.
